@@ -3,18 +3,14 @@
 Este projeto consiste em um site de casamento desenvolvido com HTML, CSS e JavaScript, com o objetivo de apresentar informações importantes sobre o evento de forma moderna e acessível.
 
  Funcionalidades
+ 
+Contagem regressiva para o grande dia
+Galeria de fotos do casal
+Lista de presentes
+Botão para confirmação de presença (RSVP)
+Design responsivo e visual elegante
 
-- Contagem regressiva para o grande dia
-- Galeria de fotos do casal
-- Lista de presentes
-- Botão para confirmação de presença (RSVP)
-- Design responsivo e visual elegante
-
- Tecnologias utilizadas
-
-- HTML
-- CSS
-- JavaScript
+ Tecnologias utilizadas: HTML, CSS e JavaScript.
 
  Objetivo
 
