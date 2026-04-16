@@ -18,4 +18,4 @@ Criar uma experiência simples, bonita e funcional para convidados acessarem tod
 
 🔗 Acesso ao site
 
-(O link do site pode ser adicionado aqui após a publicação)
+(https://viihsvsc.github.io/site-casamento/)
